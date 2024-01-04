@@ -1,8 +1,7 @@
-### Here’s some stats on my GitHub repos
+### 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MikeWLloyd&show_icons=true&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeWLloyd&hide=html,css,jupyter%20notebook&layout=compact">
 
 </p>
