@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MikeWLloyd&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MikeWLloyd&langs_count=10&hide=html&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MikeWLloyd&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 </p>
 
